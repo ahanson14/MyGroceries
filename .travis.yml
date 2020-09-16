@@ -1,2 +1,2 @@
 compiler
-  - g++ main.cpp
+  - make
